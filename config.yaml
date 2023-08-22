@@ -1,0 +1,4 @@
+target: "http://seat.ngrok.traceint.com/index.php/graphql/test"
+num: 10
+broker:
+  - "http://127.0.0.1:20080"
